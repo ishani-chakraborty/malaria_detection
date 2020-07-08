@@ -16,10 +16,6 @@
 #### 3. Contour detection
 #### 4. Get the areas of the 5 largest contours
 
-##### Run ```ruby
-              require 'redcarpet'
-              markdown = Redcarpet.new("Hello World!")
-              puts markdown.to_html
-          ```
+##### Run [unproc_dataset.py](https://github.com/ishani-chakraborty/malaria_detection/blob/master/unproc_dataset.py) to generate 
 
 ###### **Feel free to contribute to the repository or contact me for questions and changes!**
