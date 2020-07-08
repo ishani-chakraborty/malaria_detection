@@ -16,6 +16,8 @@
 #### 3. Contour detection
 #### 4. Get the areas of the 5 largest contours
 
-##### **Run:** '''python unproc_dataset.py''' to generate dataset.csv in the csv folder
+##### **Run:** '''python 
+                  unproc_dataset.py
+                  ''' to generate dataset.csv in the csv folder
 
 ###### **Feel free to contribute to the repository or contact me for questions and changes!**
