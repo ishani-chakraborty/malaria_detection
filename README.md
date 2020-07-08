@@ -16,6 +16,6 @@
 #### 3. Contour detection
 #### 4. Get the areas of the 5 largest contours
 
-##### Run [unproc_dataset.py](https://github.com/ishani-chakraborty/malaria_detection/blob/master/unproc_dataset.py) to generate 
+##### Run [unproc_dataset.py](https://github.com/ishani-chakraborty/malaria_detection/blob/master/unproc_dataset.py) to generate [dataset.csv] (https://github.com/ishani-chakraborty/malaria_detection/blob/master/csv/dataset.csv) in the csv folder
 
 ###### **Feel free to contribute to the repository or contact me for questions and changes!**
